@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**BrianBravoski/BrianBravoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**BrianBravoski/BrianBravoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 # 📫 How to reach me: brianbravoski28@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
