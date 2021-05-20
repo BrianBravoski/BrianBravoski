@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: brianbravoski28@gmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-[![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📈Github stats
+
+![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&show_icons=true&theme=tokyonight&line_height=26)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
