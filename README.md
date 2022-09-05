@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...-->
 - 📫 How to reach me: 
 - [Porfolio](https://kemboidev.netlify.app)
--Email [📧 ](brianbravoski28@gmail.com)
+-[📧 Email ](brianbravoski28@gmail.com)
 -  [@BrianBravoski](https://twitter.com/Kemboi_Bravoski)
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
