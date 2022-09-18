@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - [Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
 -  [@BrianBravoski](https://twitter.com/Kemboi_Bravoski)
-<!--- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<!--- 😄 Pronouns: ...-->
+- ⚡ Fun fact: ... 
 <a href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=l5p" width="400" alt="Brian Kemboi's Dev Card"/></a>
 
 ## 📈Github stats
