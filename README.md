@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱I’m currently learning React and Nodejs 
 - 👯 I’m looking to collaborate on various open-source projects
 - 🤔 I’m looking for help with dynamic apps and  Cloud DevOps
-- <!--💬 Ask me about ...-->
+<!--💬 Ask me about ...-->
 - 📫 How to reach me: 
 - [Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
