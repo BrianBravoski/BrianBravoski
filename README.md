@@ -5,7 +5,7 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 
 <!--**BrianBravoski/BrianBravoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-'-->
 
 - 🔭I’m currently working on an ecommerce website that uses the sanity store
 - 🌱I’m currently learning React and Nodejs 
