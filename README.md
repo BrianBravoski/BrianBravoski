@@ -15,6 +15,7 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 - 📫 How to reach me: 
 - [Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
+- [💼 LinkedIn](https://linkedin.com/brian-kemboi)
 -  [@BrianBravoski](https://twitter.com/Kemboi_Bravoski)
 <!--- 😄 Pronouns: ..
 - ⚡ Fun fact: ... .-->
