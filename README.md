@@ -24,7 +24,7 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 ## 📈Github stats
 
 ![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&show_icons=true&theme=tokyonight&line_height=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=6)
 
 
 ## 🔨Tools
