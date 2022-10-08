@@ -16,14 +16,14 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 - [Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
 - [💼 LinkedIn](https://linkedin.com/brian-kemboi)
--  [@BrianBravoski](https://twitter.com/Kemboi_Bravoski)
+-  [🕊 @BrianBravoski](https://twitter.com/Kemboi_Bravoski)
 <!--- 😄 Pronouns: ..
 - ⚡ Fun fact: ... .-->
-<a href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=l5p" width="400" alt="Brian Kemboi's Dev Card"/></a>
+<a href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=nrc" width="400" alt="Brian Kemboi's Dev Card"/></a>
 
 ## 📈Github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&hide=jupyter_notebook&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=6)
 ![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&show_icons=true&theme=tokyonight&line_height=45)
 
 
