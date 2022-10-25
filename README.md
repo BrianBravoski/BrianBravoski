@@ -16,7 +16,8 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 - [Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
 - [💼 LinkedIn](https://linkedin.com/brian-kemboi)
--  [🕊 @BrianBravoski](https://twitter.com/Kemboi_Bravoski)
+- <p align="left">
+  <a href="https://twitter.com/Kemboi_Bravoski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BrianBravoski" height="15" height="20"/> BrianBravoski</a></p>
 <!--- 😄 Pronouns: ..
 - ⚡ Fun fact: ... .-->
 <a href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=nrc" width="400" alt="Brian Kemboi's Dev Card"/></a>
@@ -25,6 +26,7 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=6)
 ![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&theme=tokyonight&line_height=45)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=BrianBravoski&theme=tokyonight)
 
 
 
