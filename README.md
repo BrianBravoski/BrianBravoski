@@ -7,7 +7,7 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 
 <!--Here are some ideas to get you started:-'-->
 
-- 🔭I’m currently working on an ecommerce website that uses the sanity store
+- 🔭I’m currently working on an open source project as a contributor to SpaceYaTech
 - 🌱I’m currently learning React and Nodejs 
 - 👯 I’m looking to collaborate on various open-source projects, internships or any junior dev roles
 - 🤔 I’m looking for help with dynamic apps and  Cloud DevOps.
