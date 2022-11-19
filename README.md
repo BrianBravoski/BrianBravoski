@@ -1,6 +1,9 @@
-### Hi there 👋
-My name is Brian Kemboi a software developer based in Nairobi kenya.
 
+<div id="header" align="center">
+<h3> Hi there 👋 </h3>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471iv7qb9utwnqg6b334a6uj76jzt6nxh6ulvrk4f5&rid=giphy.gif&ct=g" width="200"/>
+  <p>My name is Brian Kemboi a software developer based in Nairobi kenya.</p>
+</div>
 
 
 <!--**BrianBravoski/BrianBravoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -33,6 +36,7 @@ My name is Brian Kemboi a software developer based in Nairobi kenya.
 
 
 ## 🔨Tools
+![](https://img.shields.io/badge/LinkedIn-blue)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
