@@ -19,7 +19,7 @@
 - 📫 How to reach me: 
 - [Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
-- [💼 LinkedIn](https://linkedin.com/brian-kemboi)
+-![](https://img.shields.io/badge/LinkedIn-blue)
 <p align="left">
   <a href="https://twitter.com/Kemboi_Bravoski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BrianBravoski" height="15" height="20"/> BrianBravoski</a></p>
 <!--- 😄 Pronouns: ..
@@ -36,7 +36,7 @@
 
 
 ## 🔨Tools
-![](https://img.shields.io/badge/LinkedIn-blue)
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
