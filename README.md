@@ -25,7 +25,7 @@
 <!--- 😄 Pronouns: ..
 - ⚡ Fun fact: ... .-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianBravoski&label=Profile%20views&color=0e75b6&style=flat" alt="BrianBravoski" /> </p>
-<a href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=nrc" width="400" alt="Brian Kemboi's Dev Card"/></a>
+<a href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=yaw" width="400" alt="Brian Kemboi's Dev Card"/></a>
 
 ## 📈Github stats
 
