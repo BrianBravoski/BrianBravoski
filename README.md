@@ -17,7 +17,7 @@
 
 <!--💬 Ask me about ...-->
 - 📫 How to reach me: 
-- [Porfolio](https://kemboidev.netlify.app)
+- [💬 Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brian-kemboi/)
 <p align="left">
