@@ -29,8 +29,8 @@
 
 ## 📈Github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=6)
-![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&theme=tokyonight&line_height=45)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=6)
+![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&theme=tokyonight&line_height=45) -->
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=BrianBravoski&theme=tokyonight)
 
 
