@@ -30,7 +30,9 @@
 ## 📈Github stats
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_count=6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski)](https://github.com/anuraghazra/github-readme-stats)
 ![Bravoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianBravoski&include_all_commits=true&theme=tokyonight&line_height=45) -->
+[![Kemboi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kemboi&theme=tokyonight&line_height=45)](https://github.com/anuraghazra/github-readme-stats)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=BrianBravoski&theme=tokyonight)
 
 
