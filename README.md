@@ -15,8 +15,11 @@
 - 👯 I’m looking to collaborate on various open-source projects, internships or any junior dev roles
 - 🤔 I’m looking for help with dynamic apps and  Cloud DevOps.
 
-<!--💬 Ask me about ...-->
-- 📫 How to reach me: 
+💬 Ask me about ...
+- DevOps
+- React
+
+📫 How to reach me: 
 - [💬 Porfolio](https://kemboidev.netlify.app)
 - [📧 Email ](brianbravoski28@gmail.com)
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brian-kemboi/)
