@@ -12,13 +12,14 @@
 <!--Here are some ideas to get you started:-'-->
 
 - 🔭I’m currently working on an open source project as a contributor to SpaceYaTech
-<!-- - 🌱I’m currently learning a Cloud DevOps Engineer Nanodegree from aProgram by ALX -->
-- 👯 I’m looking to collaborate on various open-source projects, internships or any junior dev roles
+- 🌱I’m currently learning 3D visualization in Blender and NextJS
+- 👯 I’m looking to collaborate on various open-source projects, internships or any dev roles
 - 🤔 I’m looking for help with dynamic apps and  Cloud DevOps.
 
 💬 Ask me about ...
 - DevOps
 - React
+- Node
 
 📫 How to reach me: 
 - [💬 Porfolio](https://kemboidev.netlify.app)
