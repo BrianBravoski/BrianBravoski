@@ -2,14 +2,10 @@
 <div id="header" align="center">
 <h3> Hi there 👋 </h3>
   <p align="center"> <a  href="https://app.daily.dev/kemboi"><img src="https://api.daily.dev/devcards/27368fdeab0c474e9aa18e108643b34d.png?r=yaw" width="400" alt="Brian Kemboi's Dev Card"/></a></p>
-<!--   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471iv7qb9utwnqg6b334a6uj76jzt6nxh6ulvrk4f5&rid=giphy.gif&ct=g" width="200"/> -->
   <p>My name is Brian Kemboi a software developer based in Nairobi kenya.</p>
 </div>
 
 
-<!--**BrianBravoski/BrianBravoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-<!--Here are some ideas to get you started:-'-->
 
 - 🔭I’m currently working on an open source project as a contributor to SpaceYaTech
 - 🌱I’m currently learning 3D visualization in Blender and NextJS
