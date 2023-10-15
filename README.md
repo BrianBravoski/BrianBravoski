@@ -24,8 +24,6 @@
 <p align="left">
   <a href="https://twitter.com/Kemboi_Bravoski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BrianBravoski" height="15" height="20"/> BrianBravoski</a></p>
 
-  
-- ⚡ Fun fact: ... .-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianBravoski&label=Profile%20views&color=0e75b6&style=flat" alt="BrianBravoski" /> </p>
 
 ## 📈Github stats
