@@ -23,14 +23,16 @@
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brian-kemboi/)
 <p align="left">
   <a href="https://twitter.com/Kemboi_Bravoski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BrianBravoski" height="15" height="20"/> BrianBravoski</a></p>
-<!--- 😄 Pronouns: ..
+
+  
 - ⚡ Fun fact: ... .-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianBravoski&label=Profile%20views&color=0e75b6&style=flat" alt="BrianBravoski" /> </p>
 
 ## 📈Github stats
-[![Kemboi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kemboi&theme=tokyonight&line)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_height=30)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=BrianBravoski&theme=tokyonight)
+[![Kemboi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kemboi&theme=tokyonight&line)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
