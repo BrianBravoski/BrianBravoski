@@ -8,7 +8,7 @@
 
 
 - 🔭I’m currently working on [Mentorlst](https://mentorlst.com) as a DevOps Intern
-- 🌱I’m currently learning 3D visualization in Blender and Threejs
+- 🌱I’m currently learning Linux Fundamentals.
 - 👯 I’m looking to collaborate on various open-source projects, internships or any dev roles
 - 🤔 I’m looking for help with dynamic apps and  Cloud DevOps.
 
