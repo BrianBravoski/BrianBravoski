@@ -29,8 +29,7 @@
 ## 📈Github stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianBravoski&theme=tokyonight&langs_height=30)
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=BrianBravoski&theme=tokyonight)
-[![Kemboi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kemboi&theme=tokyonight&line)](https://github.com/anuraghazra/github-readme-stats)
+[![Kemboi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kemboi&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
